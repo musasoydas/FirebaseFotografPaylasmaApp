@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165420905652",
+    "project_id": "fotograf2-b81f2",
+    "storage_bucket": "fotograf2-b81f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165420905652:android:fe21fbef20b6119ec5d3e1",
+        "android_client_info": {
+          "package_name": "com.example.fotografpaylasmauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165420905652-37upuihtmhbgdetau88dpobdv6ud0m5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtFpiBk4qrxTA7j0jCqnj2MpEbUtDQw7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165420905652-37upuihtmhbgdetau88dpobdv6ud0m5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
