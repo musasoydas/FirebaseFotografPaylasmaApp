@@ -1,4 +1,5 @@
 # FirebaseFotografPaylasmaApp
+kod satırları mevcuttur.incelemek isteyen bakabilir. Arayüzünü güzelleştirebilirim .
 Firebase teknolojisi kullanarak kullanıcı girişi ve fotograf paylaşma uygulaması yaptım.Detaya girmem gerekirse ;
 LogIn sayfasında bizi Giriş Yap ve Kayıt ol butonları karşılıyor.
 Eğer kullanıcı kayıtlı değilse kolay şekilde E-mail ile kayıt olabiliyor.Emaili girip Şifresini girdiğinde 
