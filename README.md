@@ -16,7 +16,7 @@ olduğundan dolayı kullanıcıdan izin isteme metodunu kullandım.Ayrıcıda bu
 Çıkış yapmaya tıkladığında kullanıcının çıkış yaptığını anlayıp bir daha girdiğinde logın sayfasını karşılamasını sağladım.Çıkış yapmadan uygulamayı kapatmış ise bunu 
 algılayıp FeedActivitye yönlendirdim
 
-
+<img width="140" height="100" src="https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152724.png">
 
 ![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152724.png)
 ![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152816.png)
