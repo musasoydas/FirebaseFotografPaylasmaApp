@@ -17,7 +17,6 @@ olduğundan dolayı kullanıcıdan izin isteme metodunu kullandım.Ayrıcıda bu
 algılayıp FeedActivitye yönlendirdim
 
 <img width="200" height="320" src="https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152724.png">
-<img width="200" height="320" src="https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152724.png">
 <img width="200" height="320" src="https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152816.png">
 <img width="200" height="320" src="https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152840.png">
 <img width="200" height="320" src="https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152908.png">
