@@ -18,11 +18,11 @@ algılayıp FeedActivitye yönlendirdim
 
 
 
-![reesim](https://bit.ly/3GhHa2E)
-![reesim](https://bit.ly/3GjFTZc)
-![reesim](https://bit.ly/3I5faAH)
-![reesim](https://bit.ly/3C27YBE)
-![reesim](https://bit.ly/3HXMsSk)
-![reesim](https://bit.ly/3WDRE1O)
-![reesim](https://bit.ly/3VkvPDj)
-![reesim](https://bit.ly/3FT9Wp4)
+![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152724.png)
+![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152816.png)
+![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152840.png)
+![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152908.png)
+![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152923.png)
+![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_152941.png)
+![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_155858.png)
+![reesim](https://github.com/musasoydas/aaaa/blob/main/kotlinproject1/app/ekran/Screenshot_20221225_155921.png)
